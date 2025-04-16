@@ -1,4 +1,4 @@
-package com.coding.problems.stacks;
+package com.coding.problems.heaps;
 
 import java.util.*;
 
